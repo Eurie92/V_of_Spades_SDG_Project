@@ -331,8 +331,8 @@ Current status:
 - Admin panel completed
 - CRUD operations completed
 - Input validation completed
-- GitHub and portfolio preparation ongoing
-- SDAD documentation refinement ongoing
+- GitHub and portfolio preparation completed
+- SDAD documentation finalized
 
 ## Future Improvements
 
