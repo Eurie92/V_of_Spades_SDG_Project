@@ -1,0 +1,50 @@
+1|Chicken Arroz Caldo|rainy|low|65.00|Lugawan sa Kanto|Warm rice porridge that is easy to digest and comforting during rainy weather
+2|Beef Mami Soup|rainy|mid|120.00|Ma Mon Luk|Hot noodle soup that gives warmth and quick energy on rainy days
+3|Pork Sinigang|rainy|high|185.00|Mesa Filipino Moderne|Warm sour soup with vegetables for a filling rainy meal
+4|Lugaw with Egg|rainy|low|55.00|Goto King|Soft warm rice meal that is gentle on the stomach
+5|Chicken Tinola|rainy|mid|130.00|Classic Savory|Ginger-based soup with chicken and vegetables for comfort and wellness
+6|Bulalo|cold|high|260.00|Leslie's Tagaytay|Hot beef soup that helps warm the body during cold weather
+7|Chicken Sopas|cold|low|70.00|Local Carinderia|Creamy hot soup that is affordable and filling during cold days
+8|La Paz Batchoy|cold|mid|145.00|Ted's Oldtimer La Paz Batchoy|Warm noodle soup with protein for energy and comfort
+9|Champorado|cold|low|60.00|Neighborhood Lugawan|Warm chocolate rice porridge suitable for cold mornings
+10|Beef Pares Mami|cold|mid|140.00|Pares Retiro|Warm beef and noodle combination for comfort and fullness
+11|Halo-Halo|sunny|mid|110.00|Chowking|Cold Filipino dessert that refreshes the body during sunny weather
+12|Fresh Lumpia|sunny|mid|95.00|Goldilocks|Light vegetable-filled meal suitable for warm weather
+13|Chicken Salad Wrap|sunny|high|165.00|The Sandwich Guy|Light meal with vegetables and protein for a sunny day
+14|Fruit Cup|sunny|low|50.00|Campus Fruit Stand|Fresh fruit snack that supports hydration during hot weather
+15|Tuna Sandwich|sunny|low|80.00|Julie's Bakeshop|Light affordable meal for warm sunny afternoons
+16|Chicken Inasal Rice Meal|sunny|mid|155.00|Mang Inasal|Grilled chicken meal with rice for balanced energy on sunny days
+17|Grilled Bangus|sunny|high|210.00|Gerry's Grill|Protein-rich fish meal that is lighter than heavy fried food
+18|Pancit Canton|sunny|low|75.00|Local Panciteria|Affordable noodle meal that provides quick energy
+19|Pinakbet with Rice|sunny|mid|115.00|Kusina ni Aling Nena|Vegetable-based Filipino meal suitable for a lighter lunch
+20|Grilled Liempo|sunny|high|230.00|Inihaw Express|Grilled pork meal that is filling for users with higher budget
+21|Chickenjoy Meal|rainy|mid|120.00|Jollibee|Familiar comfort food that can satisfy cravings during rainy weather
+22|Beef Wanton Mami|rainy|mid|145.00|Chowking|Hot noodle soup that is suitable for cold or rainy surroundings
+23|Kare-Kare|rainy|high|240.00|Max's Restaurant|Rich Filipino stew with vegetables for a heavy comfort meal
+24|Goto Special|rainy|low|85.00|Goto Tendon|Warm rice porridge with toppings for rainy-day fullness
+25|Sinigang na Hipon|rainy|high|250.00|Dencio's|Warm seafood sour soup with vegetables for a nutritious meal
+26|Batchoy Special|cold|mid|150.00|Deco's Original La Paz Batchoy|Hot noodle soup that helps the body feel warm
+27|Nilagang Baka|cold|high|220.00|Barrio Fiesta|Hot beef soup with vegetables for cold weather comfort
+28|Hot Chicken Mami|cold|low|90.00|Hen Lin|Warm chicken noodle soup for an affordable cold-weather choice
+29|Pork Ramen Pinoy Style|cold|mid|160.00|Ramen Kanto PH|Hot noodle bowl that gives warmth and fullness
+30|Hot Taho|cold|low|35.00|Manong Taho|Warm soy snack that is light, affordable, and comforting
+31|Buko Juice and Turon|sunny|low|70.00|Merienda Stall PH|Refreshing drink with banana snack for sunny weather energy
+32|Buko Pandan Salad|sunny|mid|95.00|Red Ribbon|Cold sweet dessert that refreshes during hot weather
+33|Inihaw na Pusit|sunny|high|260.00|Seafood Island|Grilled seafood meal that is lighter than heavy stews
+34|Vegetable Bibimbowl Pinoy Style|sunny|high|190.00|SaladStop! Philippines|Vegetable-forward bowl for a healthier sunny-day meal
+35|Chicken Barbecue Rice|sunny|mid|145.00|Aristocrat Restaurant|Grilled chicken meal suitable for lunch during warm weather
+36|Pork Adobo Rice Meal|rainy|low|95.00|Tapsihan ni Mang Jun|Savory Filipino comfort meal that is filling and affordable
+37|Hot Lomi|rainy|mid|135.00|Lomi House Batangas|Thick hot noodle soup that is comforting during rainy days
+38|Ginataang Gulay|rainy|mid|125.00|Bahay Kubo Meals|Vegetable coconut dish that provides a warm and balanced meal
+39|Chicken Curry Rice|rainy|mid|140.00|Karinderya ni Aling Tessie|Warm saucy meal that is filling during rainy weather
+40|Pork Menudo|rainy|low|90.00|Student Meal Hub|Affordable tomato-based meal with rice for rainy-day fullness
+41|Mushroom Soup and Bread|cold|mid|130.00|French Baker Philippines|Warm soup and bread combination for cold weather comfort
+42|Hot Chocolate and Ensaymada|cold|mid|125.00|Mary Grace Cafe|Warm drink and bread snack suitable for cold afternoons
+43|Beef Caldereta|cold|high|230.00|Kuya J Restaurant|Rich warm stew that provides energy and fullness
+44|Chicken Macaroni Soup|cold|low|75.00|School Canteen|Warm creamy soup that is affordable and easy to eat
+45|Corn Soup|cold|low|65.00|Local Soup Stall|Light hot soup that helps users feel warm without being too heavy
+46|Ginisang Monggo with Rice|sunny|low|85.00|Carinderia sa Bayan|Affordable vegetable and protein meal suitable for regular lunch
+47|Grilled Chicken Salad|sunny|high|185.00|Kenny Rogers Roasters|Lighter protein meal with vegetables for warm weather
+48|Tapsilog|sunny|mid|135.00|Tapa King|Familiar Filipino rice meal that provides energy for the day
+49|Bangsilog|sunny|mid|125.00|Ate Rica's Food Stall|Fish and rice breakfast-style meal suitable for sunny mornings
+50|Kinilaw na Tuna|sunny|high|250.00|Davao Tuna Grill|Fresh seafood dish that feels light and refreshing in hot weather
