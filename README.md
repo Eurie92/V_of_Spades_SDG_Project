@@ -212,20 +212,22 @@ The system also uses input stream recovery techniques such as clearing failed in
 Using g++:
 
 ```bash
-g++ -std=c++11 -Wall -Wextra -pedantic *.cpp -o weasolve
-```
+cd CODE
+g++ -std=c++11 -Wall -Wextra -pedantic *.cpp -o weasolve.exe
+weasolve.exe
 
 ### Run on Linux or macOS
 
-```bash
+cd CODE
+g++ -std=c++11 -Wall -Wextra -pedantic *.cpp -o weasolve
 ./weasolve
-```
 
 ### Run on Windows
 
 ```bash
+cd CODE
+g++ -std=c++11 -Wall -Wextra -pedantic *.cpp -o weasolve.exe
 weasolve.exe
-```
 
 ## Sample User Flow
 
